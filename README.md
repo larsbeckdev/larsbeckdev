@@ -1,71 +1,79 @@
 # 👋 Hi, ich bin Lars
 
-## 💻 Digital Consultant · Web Developer · Systems Enthusiast
+## 💼 Digital Consultant · Software Developer · System Architect
 
-Ich baue **performante Web-Apps**, **saubere Systemlandschaften** und **digitale Lösungen**, die langfristig wartbar, sicher und souverän sind.  
-Mein Fokus liegt auf **Open-Source**, **klarer Architektur** und **durchdachtem Design**.
-
----
-
-### 🚀 Was ich mache
-
-- 🌐 Webentwicklung (Frontend & Backend)
-- 🧠 Software- & Systemarchitektur
-- 🖥️ Linux, Docker & Server-Automatisierung
-- 🎨 UI/UX & Design Systeme
-- 📨 Mail- & DNS-Infrastrukturen
-- 🔐 Security, Backups & Monitoring
+Ich entwickle **skalierbare Web-Anwendungen**, **robuste IT-Systeme** und **digitale Business-Lösungen** für Unternehmen und Organisationen.  
+Mein Fokus liegt auf **sauberer Software-Architektur**, **Open-Source-Technologien** und **nachhaltigen Systemlandschaften**.
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Schwerpunkte
 
-**Frontend**
-- HTML, CSS, JavaScript
+- Entwicklung moderner Web-Anwendungen
+- Planung & Umsetzung von IT- und Systemarchitekturen
+- Automatisierte Server- & Infrastruktur-Setups
+- Business-orientierte Softwarelösungen
+- Performance, Sicherheit & Wartbarkeit
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- HTML · CSS · JavaScript
 - Vue 3 · Vite · Tailwind · shadcn-vue
 
-**Backend**
+### Backend
 - Node.js · NestJS
-- REST APIs · Auth · RBAC (CASL)
+- REST APIs · Authentifizierung · Rollen- & Rechtemodelle (CASL)
 
-**DevOps / System**
-- Docker · Proxmox · Linux
+### Infrastruktur & DevOps
+- Linux · Docker · Proxmox
 - NGINX · ISPConfig · Mailcow
-- WireGuard · DNS · SSL
+- DNS · SSL · WireGuard · Backup-Strategien
 
-**Tools**
+### Tools
 - Git · GitHub · GitLab
 - VS Code · Figma
-- Synology NAS · Hetzner Cloud
+- Hetzner Cloud · Synology NAS
 
 ---
 
-### 📦 Aktuelle Projekte
+## 📦 Aktuelle Projekte
 
-- 🧭 **Hosting- & Admin-Panel** (Vue + NestJS)
-- ✉️ **Mail- & DNS-Infrastruktur** (Mailcow, PowerDNS)
-- 🏗️ **Custom Dashboards & Web Apps**
-- 🧠 **Open-Source-basierte Systemlandschaften für KMU**
+- 🧭 **Business- & Hosting-Panel** (Vue + NestJS)
+- ✉️ **E-Mail- & DNS-Infrastrukturen** für produktive Umgebungen
+- 🏗️ **Custom Web- & Softwarelösungen** für KMU
+- 🧠 **Open-Source-basierte Systemarchitekturen**
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Aktivität
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_USERNAME&layout=compact&theme=transparent)
 
 ---
 
-### 📫 Kontakt
+## 🤝 Engagement & Interessen
 
-- 🌐 Website: https://larsbeck.dev  
-- 📧 Mail: mail@larsbeck.dev  
-- 💼 LinkedIn: https://linkedin.com/in/DEIN_PROFIL
+- 🚒 Aktives Mitglied der **Freiwilligen Feuerwehr Donauwörth**
+- 🎵 **Musikproduktion & Sound Design**
+- 🎨 UI/UX-Design & digitale Markenentwicklung
+- ⚙️ Homelab, Automatisierung & Self-Hosting
 
 ---
 
-### ⚡ Fun Fact
+## 📫 Kontakt
 
-Ich kombiniere **Technik**, **Design** und **Musikproduktion** –  
-und glaube fest an **digitale Souveränität durch Open Source**.
+- 🌐 Website: https://larsbeck.dev  
+- 📧 E-Mail: mail@larsbeck.dev  
+- 💼 LinkedIn: undefined
 
+---
+
+### ⚡ Leitgedanke
+
+**Technologie muss Unternehmen stärken – nicht verkomplizieren.**  
+Mein Ansatz: klar, effizient, verantwortungsvoll.
+Mein Motto: Rock'n Business
