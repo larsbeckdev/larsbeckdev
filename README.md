@@ -96,13 +96,6 @@ with a strong focus on **open-source technologies**,
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/arduino.svg" width="28" alt="Arduino" />
 </div>
 
-## 🎨 Design & Creative
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
-![Affinity Designer](https://img.shields.io/badge/affinity%20designer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
-
 ## 🏢 Organisations
 
 **DOBA Media UG** — _Founder_  
