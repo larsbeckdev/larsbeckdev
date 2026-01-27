@@ -1,11 +1,10 @@
 # Hi 👋 My name is Lars
 
-*   🌍  I'm based in Donauwörth
-*   🖥️  See my portfolio at [larsbeck.dev](http://larsbeck.dev)
-*   ✉️  You can contact me at [mail@larsbeck.dev](mailto:mail@larsbeck.dev)
-*   🧠  I'm currently learning Angular
-*   💬  Ask me about I'm here to build the future.
-
+- 🌍 I'm based in Donauwörth
+- 🖥️ See my portfolio at [larsbeck.dev](http://larsbeck.dev)
+- ✉️ You can contact me at [mail@larsbeck.dev](mailto:mail@larsbeck.dev)
+- 🧠 I'm currently learning Angular
+- 💬 Ask me about I'm here to build the future.
 
 ## 🚀 Short Profile
 
@@ -16,50 +15,19 @@ with a strong focus on **open-source technologies**,
 > Technology should empower — not complicate.
 
 ## 🧠 Currently
+
 - Learning **Angular**
 - Building modern web & system architectures
 - Exploring sustainable DevOps & open-source stacks
 
-
 ## 🛠️ Tech Stack
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
-
 ### Languages
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
----
-
-## 📱 Tech Stack / Skills
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-
-## Tech
-<a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36"/></a>
-<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36"/></a>
-<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36"/></a>
-<a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36"/></a>
-<a href="https://go.dev/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36"/></a>
-<a href="https://www.rust-lang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" width="36"/></a>
-<a href="https://dart.dev/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36"/></a>
-<a href="https://www.ruby-lang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36"/></a>
-<a href="https://www.perl.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/perl-colored.svg" width="36"/></a>
-<a href="https://developer.apple.com/swift/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36"/></a>
-
-
-
 
 <!-- ### ⚙️ Frontend Frameworks & UI
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -76,10 +44,8 @@ with a strong focus on **open-source technologies**,
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white) -->
 
-
-
-
 ### OS & Hardware
+
 <div style="display:flex; gap:8px; align-items:center;">
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/microsoft-windows.svg" width="28" alt="Windows" />
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/linux.svg" width="28" alt="Linux" />
@@ -88,16 +54,19 @@ with a strong focus on **open-source technologies**,
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/arduino.svg" width="28" alt="Arduino" />
 </div>
 
+## 🏢 Organisations
 
+**DOBA Media UG** — _Founder_  
+Digital & software consulting · Open-source-first · System landscapes for SMEs
 
+**Volunteer Fire Department Donauwörth** — _Member_  
+Volunteering · Teamwork · Responsibility in emergency operations
 
-
-## 📫 Kontakt
-🌐 https://larsbeck.dev  
-📧 mail@larsbeck.dev  
-
+**Open Source** — _Contributor_  
+Self-hosting · Contributions · Automation & DevOps
 
 ## 🤝 Support
+
 <a href="https://www.buymeacoffee.com/larsbeck" target="_blank" rel="noopener">
       <img
         src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
@@ -112,5 +81,3 @@ with a strong focus on **open-source technologies**,
         height="40"
       />
     </a>
-
-
