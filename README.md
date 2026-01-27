@@ -24,3 +24,6 @@ Ich entwickle **moderne Web-Anwendungen**, **stabile IT-Systeme** und **digitale
 📧 mail@larsbeck.dev  
 
 > **Technologie muss stärken – nicht verkomplizieren.**
+> *Built with care and intention.*
+
+
