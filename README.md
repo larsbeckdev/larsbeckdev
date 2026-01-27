@@ -23,6 +23,8 @@ with a strong focus on **open-source technologies**,
 
 ## 🛠️ Tech Stack
 
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 ### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -96,6 +98,24 @@ with a strong focus on **open-source technologies**,
 
 
 ## 🤝 Support
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/larsbeck)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/larsbeck84) 
-  
+
+<ul style="list-style: none; padding: 0; margin: 0; display: flex; gap: 0.5rem; align-items: center;">
+  <li>
+    <a href="https://www.buymeacoffee.com/larsbeck" target="_blank" rel="noopener">
+      <img
+        src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+        alt="Buy Me A Coffee"
+        width="150"
+      />
+    </a>
+  </li>
+  <li>
+    <a href="https://paypal.me/larsbeck84" target="_blank" rel="noopener">
+      <img
+        src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"
+        alt="PayPal"
+        height="40"
+      />
+    </a>
+  </li>
+</ul>
