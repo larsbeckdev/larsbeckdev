@@ -94,9 +94,8 @@ with a strong focus on **open-source technologies**,
 🌐 https://larsbeck.dev  
 📧 mail@larsbeck.dev  
 
-> **Technologie muss stärken – nicht verkomplizieren.**
 
-> *Built with care and intention.*
-
-## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/larsbeck84) 
+## 🤝 Support
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/larsbeck84) 
+  
