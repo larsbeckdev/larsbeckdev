@@ -64,7 +64,6 @@ with a strong focus on **open-source technologies**,
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-
 ### OS & Hardware
 
 <div style="display:flex; gap:8px; align-items:center;">
