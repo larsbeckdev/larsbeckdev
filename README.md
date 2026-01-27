@@ -99,7 +99,7 @@ with a strong focus on **open-source technologies**,
 
 ## 🤝 Support
 
-<ul style="list-style: none; padding: 0; margin: 0; display: flex; gap: 0.5rem; align-items: center;">
+<ul style="list-style-type: none; padding: 0; margin: 0; display: flex; gap: 0.5rem; align-items: center;">
   <li>
     <a href="https://www.buymeacoffee.com/larsbeck" target="_blank" rel="noopener">
       <img
