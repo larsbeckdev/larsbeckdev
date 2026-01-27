@@ -113,20 +113,4 @@ with a strong focus on **open-source technologies**,
       />
     </a>
 
-<ul style="list-style-type: none; margin: 0;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/larsbeck" target="_blank" rel="noopener">
-      <img
-        src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-        alt="Buy Me A Coffee"
-        width="150"
-      />
-    </a>
-   <a href="https://paypal.me/larsbeck84" target="_blank" rel="noopener">
-      <img
-        src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"
-        alt="PayPal"
-        height="40"
-      />
-    </a></li>
-</ul>
