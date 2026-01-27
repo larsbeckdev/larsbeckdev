@@ -1,7 +1,5 @@
-# Hi 👋 My name is Lars
-
-<h1 align="center">Hi <img height="35px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"/>, I'm Thomas</h1>
-<h3 align="center">A passionate full stack developer from France</h3>
+<h1 align="center">Hi <img height="35px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"/>, I'm Lars</h1>
+<h3 align="center">A passionate full stack developer from Germany</h3>
 
 - 🌍 I'm based in Donauwörth
 - 🖥️ See my portfolio at [larsbeck.dev](http://larsbeck.dev)
