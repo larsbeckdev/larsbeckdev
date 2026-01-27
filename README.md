@@ -6,8 +6,44 @@
 *   🧠  I'm currently learning Angular
 *   💬  Ask me about I'm here to build the future.
 
-## 📱 Tech Stack
 
+## 🚀 Short Profile
+
+I design and build **efficient, secure, and maintainable system landscapes**  
+with a strong focus on **open-source technologies**,  
+**long-term sustainability**, and **digital sovereignty**.
+
+> Technology should empower — not complicate.
+
+## 🧠 Currently
+- Learning **Angular**
+- Building modern web & system architectures
+- Exploring sustainable DevOps & open-source stacks
+
+
+## 🛠️ Tech Stack
+
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+---
+
+## 📱 Tech Stack / Skills
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+## Tech
 <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36"/></a>
 <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36"/></a>
@@ -23,7 +59,7 @@
 
 
 
-### ⚙️ Frontend Frameworks & UI
+<!-- ### ⚙️ Frontend Frameworks & UI
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -36,25 +72,20 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![UnoCSS](https://img.shields.io/badge/unocss-333333.svg?style=for-the-badge&logo=unocss&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white) -->
+
+
 
 
 ### OS & Hardware
-<a href="https://www.microsoft.com/windows">
-  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/microsoft-windows.svg" width="28"/>
-</a>
-<a href="https://www.linux.org">
-  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/linux.svg" width="28"/>
-</a>
-<a href="https://www.raspberrypi.org/">
-  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/raspberry-pi.svg" width="28"/>
-</a>
-<a href="https://ubuntu.com/">
-  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/ubuntu.svg" width="28"/>
-</a>
-<a href="https://store.arduino.cc/">
-  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/arduino.svg" width="28"/>
-</a>
+<div style="display:flex; gap:8px; align-items:center;">
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/microsoft-windows.svg" width="28" alt="Windows" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/linux.svg" width="28" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/raspberry-pi.svg" width="28" alt="Raspberry Pi" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/ubuntu.svg" width="28" alt="Ubuntu" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/arduino.svg" width="28" alt="Arduino" />
+</div>
+
 
 
 
@@ -66,3 +97,6 @@
 > **Technologie muss stärken – nicht verkomplizieren.**
 
 > *Built with care and intention.*
+
+## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/larsbeck84) 
