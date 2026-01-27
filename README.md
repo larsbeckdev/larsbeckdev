@@ -4,6 +4,7 @@
 - 🖥️ See my portfolio at [larsbeck.dev](http://larsbeck.dev)
 - ✉️ You can contact me at [mail@larsbeck.dev](mailto:mail@larsbeck.dev)
 - 🧠 I'm currently learning Angular
+- 🛡️ Currently upskilling towards DevSecOps Engineering
 - 💬 Ask me about I'm here to build the future.
 
 ## 🚀 Short Profile
@@ -29,7 +30,7 @@ with a strong focus on **open-source technologies**,
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<!-- ### ⚙️ Frontend Frameworks & UI
+### Frontend Frameworks & UI
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -42,7 +43,7 @@ with a strong focus on **open-source technologies**,
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![UnoCSS](https://img.shields.io/badge/unocss-333333.svg?style=for-the-badge&logo=unocss&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white) -->
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 ### OS & Hardware
 
@@ -68,16 +69,16 @@ Self-hosting · Contributions · Automation & DevOps
 ## 🤝 Support
 
 <a href="https://www.buymeacoffee.com/larsbeck" target="_blank" rel="noopener">
-      <img
+    <img
         src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
         alt="Buy Me A Coffee"
         width="150"
       />
-    </a>
-   <a href="https://paypal.me/larsbeck84" target="_blank" rel="noopener">
-      <img
+</a>
+<a href="https://paypal.me/larsbeck84" target="_blank" rel="noopener">
+    <img
         src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"
         alt="PayPal"
         height="40"
-      />
-    </a>
+    />
+</a>
