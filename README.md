@@ -115,6 +115,14 @@ with a strong focus on **open-source technologies**,
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Security](https://img.shields.io/badge/Security-by%20Design-2E7D32?style=for-the-badge)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-Principles-1565C0?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP-Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Docker Security](https://img.shields.io/badge/Docker-Security-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Secure%20Pipelines-37474F?style=for-the-badge)
+![Secrets](https://img.shields.io/badge/Secrets-Management-6A1B9A?style=for-the-badge)
+![Privacy](https://img.shields.io/badge/Privacy-Data%20Protection-455A64?style=for-the-badge)
+
 
 </details>
 
