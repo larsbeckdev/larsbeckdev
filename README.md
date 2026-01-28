@@ -39,6 +39,7 @@ with a strong focus on **open-source technologies**,
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+### Core technologies I actively use.  
 
 <details open>
 <summary><strong>Frontend Frameworks & UI</strong></summary>
