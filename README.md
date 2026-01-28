@@ -31,7 +31,7 @@ with a strong focus on **open-source technologies**,
 
 ## 🛠️ Tech Stack
 
-<summary><strong>Languages</strong></summary>
+### Languages
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
