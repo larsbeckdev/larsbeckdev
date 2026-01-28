@@ -1,6 +1,4 @@
-<h1 align="center">
-  Hi 👋 I'm Lars
-</h1>
+<h1 align="center">Hi <img height="35px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"/>, I'm Lars</h1>
 
 <h3 align="center">
   Full Stack Developer from Germany 🇩🇪
