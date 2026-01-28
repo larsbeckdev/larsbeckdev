@@ -98,7 +98,7 @@ with a strong focus on **open-source technologies**,
 </details>
 
 <details>
-<summary><strong>DevOpbs & CI/CD</strong></summary>
+<summary><strong>DevOps & CI/CD</strong></summary>
 
 
 
