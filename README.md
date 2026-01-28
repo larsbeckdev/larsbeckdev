@@ -107,6 +107,7 @@ with a strong focus on **open-source technologies**,
 
 <details>
 <summary><strong>DevOps, Security & CI/CD</strong></summary>
+<p><em>Secure-by-default workflows & infrastructure awareness</em></p>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
