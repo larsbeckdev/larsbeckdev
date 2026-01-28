@@ -110,6 +110,11 @@ with a strong focus on **open-source technologies**,
 
 </details>
 
+<summary><strong>Monitoring & Observability</strong></summary>
+
+
+</details>
+
 
 ### OS & Hardware
 
