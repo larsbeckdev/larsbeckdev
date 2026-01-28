@@ -127,4 +127,3 @@ Self-hosting · Contributions · Automation & DevOps
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="40" />
   </a>
 </div>
-
