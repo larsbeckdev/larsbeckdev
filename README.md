@@ -97,6 +97,14 @@ with a strong focus on **open-source technologies**,
 
 </details>
 
+<details>
+<summary><strong>DevOpbs & CI/CD</strong></summary>
+
+
+
+</details>
+
+
 ### OS & Hardware
 
 <div style="display:flex; gap:8px; align-items:center;">
