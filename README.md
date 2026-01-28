@@ -1,14 +1,13 @@
-<h1>
-  Hi, I'm Lars 👋
+<h1 align="center">
+  Hi 👋 I'm Lars
 </h1>
 
-<h3>
-  Full Stack Developer · Open-Source Enthusiast · Germany 🇩🇪
+<h3 align="center">
+  Full Stack Developer from Germany 🇩🇪
 </h3>
 
-<p>
-  I design and build modern, sustainable web systems with a focus on
-  performance, clarity and long-term maintainability.
+<p align="center">
+  Open-source minded · Clean architecture · Sustainable systems
 </p>
 
 
