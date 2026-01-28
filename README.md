@@ -122,8 +122,11 @@ with a strong focus on **open-source technologies**,
 </details>
 
 <details>
-<summary><strong>Monitoring & Observability</strong></summary>
+<summary><strong>Architecture & Patterns</strong></summary>
 
+![REST](https://img.shields.io/badge/REST-005571?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-111111?style=for-the-badge)
 
 </details>
 
