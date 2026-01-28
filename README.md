@@ -10,7 +10,6 @@
   Open-source minded · Clean architecture · Sustainable systems
 </p>
 
-
 - 🌍 I'm based in Donauwörth
 - 🖥️ See my portfolio at [larsbeck.dev](http://larsbeck.dev)
 - ✉️ You can contact me at [mail@larsbeck.dev](mailto:mail@larsbeck.dev)
