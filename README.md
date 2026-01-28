@@ -119,16 +119,6 @@ with a strong focus on **open-source technologies**,
 </details>
 
 <details>
-<summary><strong>DevOps, Security & CI/CD</strong></summary>
-
-- Docker & containerized workflows
-- CI/CD pipelines (GitHub Actions, GitLab CI)
-- Secure-by-default configurations
-- Monitoring & observability in self-hosted setups
-
-</details>
-
-<details>
 <summary><strong>Monitoring & Observability</strong></summary>
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
