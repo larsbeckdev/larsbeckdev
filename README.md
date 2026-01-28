@@ -96,6 +96,9 @@ with a strong focus on **open-source technologies**,
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/arduino.svg" width="28" alt="Arduino" />
 </div>
 
+
+
+
 ## 🏢 Organisations
 
 **DOBA Media UG** — _Founder_  
