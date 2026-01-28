@@ -1,5 +1,16 @@
-<h1 align="left">Hi <img height="35px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"/>, I'm Lars</h1>
-<h3 align="center">A passionate full stack developer from Germany</h3>
+<h1>
+  Hi, I'm Lars 👋
+</h1>
+
+<h3>
+  Full Stack Developer · Open-Source Enthusiast · Germany 🇩🇪
+</h3>
+
+<p>
+  I design and build modern, sustainable web systems with a focus on
+  performance, clarity and long-term maintainability.
+</p>
+
 
 - 🌍 I'm based in Donauwörth
 - 🖥️ See my portfolio at [larsbeck.dev](http://larsbeck.dev)
