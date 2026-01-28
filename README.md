@@ -121,6 +121,23 @@ with a strong focus on **open-source technologies**,
 
 </details>
 
+<details>
+<summary><strong>Monitoring & Observability</strong></summary>
+
+
+</details>
+
+<details>
+<summary><strong>Design & UX</strong></summary>
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Design Tokens](https://img.shields.io/badge/Design_Tokens-4A4A4A?style=for-the-badge)
+![Accessibility](https://img.shields.io/badge/WCAG_A11y-005A9C?style=for-the-badge)
+
+
+</details>
+
 
 ### OS & Hardware
 
