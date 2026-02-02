@@ -23,6 +23,18 @@ with a strong focus on **open-source technologies**,
 
 > Technology should empower — not complicate.
 
+## 🎓 Qualifications & Business Background
+
+- 📜 **Handelsfachwirt (IHK)**  
+  Business administration · Finance · Organization · Strategic planning
+
+- 🤝 **Certified Key Account Manager (IHK)**  
+  Strategic customer management · Enterprise relationships · Long-term value creation
+
+> Strong intersection of **technology, business strategy, and customer-centric thinking**.
+
+
+
 ## 🧠 Currently
 
 - Learning **Angular**
