@@ -25,7 +25,7 @@ with a strong focus on **open-source technologies**,
 
 ## 🎓 Qualifications & Business Background
 
-- 📜 **Handelsfachwirt (IHK)**  
+- 📜 **Certified Commercial Specialist (IHK)**  
   Business administration · Finance · Organization · Strategic planning
 
 - 🤝 **Certified Key Account Manager (IHK)**  
