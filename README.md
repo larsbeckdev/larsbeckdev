@@ -202,12 +202,18 @@ Self-hosting · Contributions · Automation & DevOps
   </a>
 </div> -->
 
-[![Coffee](https://img.shields.io/badge/Coffee-Support%20me-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/larsbeck)
-[![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=flat&logo=paypal&logoColor=white)](https://paypal.me/larsbeck84)
-
-<div align="center">
-
-[![Coffee](https://img.shields.io/badge/Coffee-Support%20me-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/larsbeck)
-[![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=flat&logo=paypal&logoColor=white)](https://paypal.me/larsbeck84)
-
+<!-- <div>
+  <a href="https://www.buymeacoffee.com/larsbeck" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
+  </a>
 </div>
+
+[![Coffee](https://img.shields.io/badge/Coffee-Support%20me-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/larsbeck)
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=flat&logo=paypal&logoColor=white)](https://paypal.me/larsbeck84)
+
+<!-- <div align="center">
+
+[![Coffee](https://img.shields.io/badge/Coffee-Support%20me-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/larsbeck)
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=flat&logo=paypal&logoColor=white)](https://paypal.me/larsbeck84)
+
+</div> -->
