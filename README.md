@@ -189,13 +189,13 @@ Self-hosting · Contributions · Automation & DevOps
 ## 🤝 Support
 
 <div>
-  <a href="https://www.buymeacoffee.com/larsbeck" target="_blank" rel="noopener">
+  <a href="https://www.buymeacoffee.com/larsbeck" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
   </a>
 </div>
 
 <div>
-  <a href="https://paypal.me/larsbeck84" target="_blank" rel="noopener">
+  <a href="https://paypal.me/larsbeck84" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="40" />
   </a>
 </div>
