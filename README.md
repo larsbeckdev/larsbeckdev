@@ -8,6 +8,8 @@
   Open-source minded · Clean architecture · Sustainable systems
 </p>
 
+
+
 - 🌍 I'm based in Donauwörth
 - 🖥️ See my portfolio at [larsbeck.dev](http://larsbeck.dev)
 - ✉️ You can contact me at [mail@larsbeck.dev](mailto:mail@larsbeck.dev)
@@ -202,3 +204,10 @@ Self-hosting · Contributions · Automation & DevOps
 
 [![Coffee](https://img.shields.io/badge/Coffee-Support%20me-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/larsbeck)
 [![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=flat&logo=paypal&logoColor=white)](https://paypal.me/larsbeck84)
+
+<div align="center">
+
+[![Coffee](https://img.shields.io/badge/Coffee-Support%20me-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/larsbeck)
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=flat&logo=paypal&logoColor=white)](https://paypal.me/larsbeck84)
+
+</div>
