@@ -202,10 +202,10 @@ Self-hosting · Contributions · Automation & DevOps
   </a>
 </div> -->
 
-<!-- <div>
-  <a href="https://www.buymeacoffee.com/larsbeck" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
-  </a>
+<div>
+
+  [![Coffee](https://img.shields.io/badge/Coffee-Support%20me-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/larsbeck)
+
 </div>
 
 [![Coffee](https://img.shields.io/badge/Coffee-Support%20me-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/larsbeck)
