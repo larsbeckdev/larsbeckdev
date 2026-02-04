@@ -202,9 +202,9 @@ Self-hosting · Contributions · Automation & DevOps
   </a>
 </div> -->
 
-<div>
+<div style="ma">
 
-  [![Coffee](https://img.shields.io/badge/Coffee-Support%20me-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/larsbeck)
+  [![Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/larsbeck)
 
 </div>
 
